@@ -1,4 +1,10 @@
-# AutoDraw
+# Changes
+
+Created a simple drawable interface that the AI draws into rather than using mouse movment in order to draw.
+Can select the image from the interface.
+
+
+## AutoDraw
 
 It is code from 
 
