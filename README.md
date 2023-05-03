@@ -3,6 +3,8 @@
 Created a simple drawable interface that the AI draws into rather than using mouse movment in order to draw.
 Can select the image from the interface.
 
+Presentation about the project : https://youtu.be/G9jLtMzU4f0
+
 
 ## AutoDraw
 
